@@ -56,7 +56,8 @@
     "clean": "pridepack clean",
     "watch": "pridepack watch",
     "start": "pridepack start",
-    "dev": "pridepack dev"
+    "dev": "pridepack dev",
+    "prepare": "npm run build"
   },
   "typesVersions": {
     "*": {
